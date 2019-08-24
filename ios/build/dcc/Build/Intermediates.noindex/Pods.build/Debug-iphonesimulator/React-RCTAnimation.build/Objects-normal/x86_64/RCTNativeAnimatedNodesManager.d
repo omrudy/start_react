@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/macbookpro/react/dcc/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/macbookpro/react/dcc/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/macbookpro/react/dcc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
